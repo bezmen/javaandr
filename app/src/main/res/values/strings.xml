@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="numbers">
+        <item>Любой</item>
+        <item>Новостройка</item>
+        <item>Вторичное</item>
+        <item>Строительство</item>
+    </string-array>
+    <string-array name="numbers2">
+        <item>Любой</item>
+        <item>3 года</item>
+        <item>4 года</item>
+        <item>5 лет</item>
+        <item>6 лет</item>
+        <item>7 лет</item>
+        <item>8 лет</item>
+        <item>9 лет</item>
+        <item>10 лет</item>
+        <item>11 лет</item>
+        <item>12 лет</item>
+        <item>13 лет</item>
+    </string-array>
+</resources>
